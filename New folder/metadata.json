@@ -1,0 +1,8 @@
+{
+  "name": "Snack Fuel Restaurant & Online Ordering",
+  "description": "Premium fast-food restaurant and online food ordering platform with real-time tracking, customer support, rider delivery portal, and comprehensive admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
